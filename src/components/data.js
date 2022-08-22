@@ -2,7 +2,7 @@ import image1 from '../images/katie-zaferes.png'
 import image2 from '../images/wedding-photography1.png'
 import image3 from '../images/mountain-bike1.png'
 
-export default [
+const data = [
     {
         id: 1,
         image: image1,
@@ -44,3 +44,4 @@ export default [
     }
 ]
 
+export default data;
